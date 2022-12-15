@@ -16,3 +16,6 @@
 
 # Top Languages Card
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chinchillaa)](https://github.com/anuraghazra/github-readme-stats)
+
+# Github Profile Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=chinchillaa&title=Commit,PullRequest,Repositories,Issues)](https://github.com/ryo-ma/github-profile-trophy)
