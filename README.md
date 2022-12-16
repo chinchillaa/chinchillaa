@@ -19,3 +19,15 @@
 
 # Github Profile Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=chinchillaa&title=Commit,PullRequest,Repositories,Issues)](https://github.com/ryo-ma/github-profile-trophy)
+
+# Wakatime Activities
+
+## Language Chart
+<a href="https://wakatime.com">
+  <img src="https://wakatime.com/share/@04ec583a-866d-423c-8fd4-ef4fb843be80/d7d321f7-3659-4771-96a0-b4a1a8d16272.png" />
+</a>
+
+## Coding time
+<a href="https://wakatime.com">
+  <img src="https://wakatime.com/share/@04ec583a-866d-423c-8fd4-ef4fb843be80/cfb4d0fb-cea3-410d-a531-7d587dd5decd.png" />
+</a>
