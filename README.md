@@ -1,5 +1,5 @@
 # My Portfolio
-![こちら](https://chinchillaa.github.io/my-portfolio/)
+[こちら](https://chinchillaa.github.io/my-portfolio/)
 
 # Activity counters
 
